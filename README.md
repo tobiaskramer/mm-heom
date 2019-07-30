@@ -11,3 +11,4 @@ The notebook implements the HEOM algorithm as described in
 and further references therein.
 
 If you use this notebook for your research, please acknowledge this implementation and share your modifications publicly.
+The formal license terms according to the GNU General Public Lincense v2 are stated in the LICENSE file. 
