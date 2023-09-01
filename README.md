@@ -19,6 +19,7 @@ Institute for Theoretical Physics
 Johannes Kepler University Linz
 Austria (contact: tobias.kramer@jku.at).
 
-Citation and DOI numbers are provided by https://zenodo.org
+Citation and DOI numbers are provided by zenodo.org: 
+[![DOI](https://zenodo.org/badge/199588760.svg)](https://zenodo.org/badge/latestdoi/199588760)
 
 The formal license terms according to the GNU General Public Lincense v2 are stated in the LICENSE file. 
